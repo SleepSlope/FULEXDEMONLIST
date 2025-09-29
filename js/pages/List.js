@@ -100,10 +100,13 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Must already be submitted on either AREDL/Pointercrate and you must be in FULEXCLAN on either website.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Any unrated level must be on the Unrated Demons List. If not, then you must send raw footage of your completion.
+                    </p>
+                    <p>
+                        Achieved the record without using hacks (however, FPS bypass is allowed, as well as Click Between Frames/CBF)
                     </p>
                     <p>
                         Have either source audio or clicks/taps in the video. Edited audio only does not count
@@ -113,9 +116,6 @@ export default {
                     </p>
                     <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
-                    </p>
-                    <p>
-                        Do not use secret routes or bug routes
                     </p>
                     <p>
                         Do not use superbuffed/easy/changed gp version of a level, only a record of the unmodified level qualifies

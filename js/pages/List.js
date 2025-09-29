@@ -106,7 +106,7 @@ export default {
                         Any unrated level must be on the Unrated Demons List. If not, then you must send raw footage of your completion.
                     </p>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, as well as Click Between Frames/CBF)
+                        Achieved the record without using hacks (however, FPS bypass is allowed, as well as Click Between Frames/CBF).
                     </p>
                     <p>
                         Have either source audio or clicks/taps in the video. Edited audio only does not count

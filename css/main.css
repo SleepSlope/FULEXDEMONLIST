@@ -59,13 +59,20 @@ header {
         padding-inline: 0;
     }
 }
-header .logo {
+header .logo img {
     justify-self: end;
     align-self: center;
     display: flex;
     align-items: flex-end;
     gap: 1rem;
 }
+
+header .logo {
+    height: 40px;
+    width: auto;
+    display: block;
+}
+
 header .nav {
     flex: 1;
 }

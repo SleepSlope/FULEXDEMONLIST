@@ -121,7 +121,7 @@ export default {
                         Do not use superbuffed/easy/changed gp version of a level, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                        yo wuddup
+                        
                     </p>
                 </div>
             </div>

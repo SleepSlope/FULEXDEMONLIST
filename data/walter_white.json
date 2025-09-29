@@ -4,9 +4,15 @@
     "author": "Renn241",
     "creators": ["GhostVandalf", "Renn241"],
     "verifier": "Laser",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "verification": "https://youtu.be/KzK62PkWOJ0",
     "percentToQualify": "100",
     "password": "Free",
     "records": [
+        {
+            "user": "Ozone",
+            "link": "https://www.youtube.com/watch?v=hGkZ5BREVYE",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

@@ -1,0 +1,18 @@
+{
+    "id": 110991117,
+    "name": "Waterfall",
+    "author": "cherryteam",
+    "creators": ["Convie", "NikVer", "deactive", "AviLateo", "arWerden", "Helpegasus", "Zhopolom", "Drewch", "Nidro", "Orte", "ElMatoSWAG", "Konsi", "thenenmox", "CatarsisGD898", "Electrobirdd", "kivvvi", "ivyteal", "Exen", "Inex", "kissskisss", "CuLuC", "Vitchrose", "IvashkaUA", "MittiRan", "Mitany", "xzergod", "Bli", "TheDolb1natoR"],
+    "verifier": "LordVadercraft",
+    "verification": "https://youtu.be/VKuVdqneG9Y",
+    "percentToQualify": "100",
+    "password": "Free",
+    "records": [
+        {
+            "user": "Mob",
+            "link": "https://www.youtube.com/watch?v=lJO_wLbnxVU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

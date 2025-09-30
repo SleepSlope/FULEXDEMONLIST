@@ -3,16 +3,10 @@
     "name": "walter white",
     "author": "Renn241",
     "creators": ["GhostVandalf", "Renn241"],
-    "verifier": "Laser",
-    "verification": "https://youtu.be/KzK62PkWOJ0",
+    "verifier": "Ozone",
+    "verification": "https://www.youtube.com/watch?v=hGkZ5BREVYE",
     "percentToQualify": "100",
     "password": "Free",
     "records": [
-        {
-            "user": "Ozone",
-            "link": "https://www.youtube.com/watch?v=hGkZ5BREVYE",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }

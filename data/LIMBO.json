@@ -1,18 +1,12 @@
 {
-    "id": 81011195,
-    "name": "walter white",
-    "author": "Renn241",
-    "creators": ["GhostVandalf", "Renn241"],
-    "verifier": "Laser",
-    "verification": "https://youtu.be/KzK62PkWOJ0",
+    "id": 86084399,
+    "name": "LIMBO",
+    "author": "MindCap",
+    "creators": ["Evasium", "Djoxy", "Pennutoh", "Failure444", "Ryder", "Lumpy", "LIEB", "SleyGD", "Jenkins", "Juhou", "GrenadeofTacos", "Th04", "Findexi", "Pokechatt", "para", "Th31", "MindCap", "Jeyzor", "Giron", "KWMS", "Temp", "nyab", "Surv", "matty2003", "Goose", "Stormfly", "Vismuth", "CuLuC", "ZephiroX", "pocke", "xStep", "weoweoteo", "KrmaL", "crohn44", "Saria", "flash"],
+    "verifier": "kane",
+    "verification": "https://www.youtube.com/watch?v=QwGoqbd5WE4",
     "percentToQualify": "100",
     "password": "Free",
     "records": [
-        {
-            "user": "Ozone",
-            "link": "https://www.youtube.com/watch?v=hGkZ5BREVYE",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }

@@ -3,16 +3,10 @@
     "name": "Firework",
     "author": "TrickGMD",
     "creators": ["Lekvid", "Orte", "Konsi", "Realvet", "Desumari", "Hantein", "Crouley", "lillium", "00Zero", "Buragoz", "Itami"],
-    "verifier": "",
-    "verification": "https://youtu.be/QBe5x2o9v2w",
+    "verifier": "Mob",
+    "verification": "www.youtube.com/watch?v=Z3RjvXq1hL0",
     "percentToQualify": "100",
     "password": "234000",
     "records": [
-        {
-            "user": "Mob",
-            "link": "https://www.youtube.com/watch?v=Z3RjvXq1hL0",
-            "percent": 100,
-            "hz": 480
-        }
     ]
 }

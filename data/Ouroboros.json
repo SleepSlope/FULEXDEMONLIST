@@ -1,0 +1,18 @@
+{
+    "id": 56703691,
+    "name": "Ouroboros",
+    "author": "ViPriN",
+    "creators": ["TrusTa", "Osiris GD", "ViPriN", "ChaSe", "DesTicY", "Rustam", "AbstractDark", "Terron", "Darwin", "Loserchik67", "TheDevon", "FerdeFunky", "G4lvatron"],
+    "verifier": "Humorfulex",
+    "verification": "https://youtu.be/itIF1btZatQ",
+    "percentToQualify": "100",
+    "password": "072619",
+    "records": [
+        {
+            "user": "GJosh2",
+            "link": "https://youtu.be/Qfn-0lZ2jFw",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

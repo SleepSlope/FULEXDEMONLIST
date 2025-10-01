@@ -1,0 +1,42 @@
+{
+    "id": 42584142,
+    "name": "Bloodlust",
+    "author": "Knobbelboy",
+    "creators": ["TMNGaming", "Rustam", "Terron", "nikroplays", "Namtar", "Willy5000", "Xaro", "Panman", "Havok", "Knobbelboy", "nwolc", "Manix648", "Wabbit", "non4med", "Minesap", "Quasar"],
+    "verifier": "Humorfulex",
+    "verification": "https://youtu.be/Bpo23CfV0Fg",
+    "percentToQualify": "100",
+    "password": "121296",
+    "records": [
+        {
+            "user": "GJosh2",
+            "link": "https://youtu.be/Nh1rznnTrfM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "SleepSlope",
+            "link": "https://youtu.be/GUv7x4Atur8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Mob",
+            "link": "https://youtu.be/hYg5TQ5Uwgc",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "NasserSparks",
+            "link": "https://youtu.be/8vsx2j-CFwM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Series-T Dank",
+            "link": "https://youtu.be/k06qBhGZk1g",
+            "percent": 100,
+            "hz": 330
+        }
+    ]
+}

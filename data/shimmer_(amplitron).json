@@ -1,0 +1,30 @@
+{
+    "id": 94156085,
+    "name": "shimmer (amplitron)",
+    "author": "amplitron",
+    "creators": [],
+    "verifier": "Zephronox",
+    "verification": "https://youtu.be/u1H06ffpPWw",
+    "percentToQualify": "100",
+    "password": "Free",
+    "records": [
+        {
+            "user": "Robotic",
+            "link": "https://youtu.be/3-LWqmr5mhM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kane",
+            "link": "https://youtu.be/yRdb2K2HqIA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Ozone",
+            "link": "https://youtu.be/zpspwzw4tn8",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 57600307,
+    "name": "Cognition",
+    "author": "EndLevel",
+    "creators": ["benji8080", "EndLevel"],
+    "verifier": "Robotic",
+    "verification": "https://youtu.be/d2jBuTKmYSA",
+    "percentToQualify": "100",
+    "password": "Free",
+    "records": [
+        {
+            "user": "DrWhoKnowsWhat",
+            "link": "https://youtu.be/AziFKH6-B5A",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

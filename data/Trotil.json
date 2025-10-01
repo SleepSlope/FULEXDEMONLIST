@@ -1,0 +1,18 @@
+{
+    "id": 94578424,
+    "name": "Trotil",
+    "author": "cherryteam",
+    "creators": ["Lit", "postcodeFF", "Ani", "CHILLI", "Feron", "Inex", "Vonxi", "SpritZ", "Val'GO", "eggephant"],
+    "verifier": "Mob",
+    "verification": "https://youtu.be/5G-2zbvCNZg",
+    "percentToQualify": "100",
+    "password": "1441",
+    "records": [
+        {
+            "user": "NasserSparks",
+            "link": "https://youtu.be/KxAhq305Htw",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}

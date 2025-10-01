@@ -1,0 +1,30 @@
+{
+    "id": 58161496,
+    "name": "Renevant",
+    "author": "nikroplays",
+    "creators": ["nikroplays"],
+    "verifier": "kane",
+    "verification": "https://youtu.be/7qLQfyTOoWA",
+    "percentToQualify": "100",
+    "password": "Free",
+    "records": [
+        {
+            "user": "GJosh2",
+            "link": "https://youtu.be/CBbVCSMxY3g",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Series-T Dank",
+            "link": "https://youtu.be/x49eq5YWXHc",
+            "percent": 100,
+            "hz": 330
+        },
+        {
+            "user": "Mob",
+            "link": "https://youtu.be/W2YihEZXjcM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

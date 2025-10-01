@@ -1,0 +1,18 @@
+{
+    "id": 91816388,
+    "name": "TORN",
+    "author": "Kyhros",
+    "creators": ["deactive", "voltex", "Sauzzeth", "para", "Splinter25", "expa", "Woom", "TheCdPre", "tygrixon", "KarolBomba", "Kyhros", "iBoop"],
+    "verifier": "Ozone",
+    "verification": "https://youtu.be/HUMKi2tdD40",
+    "percentToQualify": "100",
+    "password": "Free",
+    "records": [
+        {
+            "user": "Mob",
+            "link": "https://youtu.be/zOwCidjymYE",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

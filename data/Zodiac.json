@@ -1,0 +1,24 @@
+{
+    "id": 52374843,
+    "name": "Zodiac",
+    "author": "BIANOX",
+    "creators": ["RicoLP", "Osiris GD", "YakobNugget", "TMNGaming", "Pennutoh", "Juhou", "Rustam", "LeoCreatorX", "Enlex", "JoeyPlays", "Onnikonna", "Aquatias", "Shocksidian", "SlimJim", "Dudex", "BIANOX", "DreamEater", "Marwec", "TehTactiq", "Eggnog", "Samifying", "Uneskladovae"],
+    "verifier": "GJosh2",
+    "verification": "https://youtu.be/E9Uv3FJPF3w",
+    "percentToQualify": "100",
+    "password": "5875",
+    "records": [
+        {
+            "user": "SleepSlope",
+            "link": "https://www.youtube.com/watch?v=5msQOWOO05M",
+            "percent": 100,
+            "hz": 240
+        }
+      {
+            "user": "Mob",
+            "link": "https://youtu.be/Ek7njbJqJ4c",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

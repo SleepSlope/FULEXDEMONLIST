@@ -1,0 +1,18 @@
+{
+    "id": 63996127,
+    "name": "Cold Sweat",
+    "author": "para",
+    "creators": ["para", "Wulzy"],
+    "verifier": "Zephronox",
+    "verification": "https://youtu.be/MwNDRDoyOQw",
+    "percentToQualify": "100",
+    "password": "Free",
+    "records": [
+        {
+            "user": "Mob",
+            "link": "https://youtu.be/YFqvg0r4_n4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

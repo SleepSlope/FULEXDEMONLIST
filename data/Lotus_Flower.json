@@ -1,0 +1,24 @@
+{
+    "id": 75813671,
+    "name": "Lotus Flower",
+    "author": "StarkyTheSalad",
+    "creators": ["zzzgecko", "StarkyTheSalad"],
+    "verifier": "Ozone",
+    "verification": "https://youtu.be/Fox8B1UiQmM",
+    "percentToQualify": "100",
+    "password": "Free",
+    "records": [
+        {
+            "user": "DrWhoKnowsWhat",
+            "link": "https://youtu.be/t2brUOLicsc",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Chubby9000",
+            "link": "https://youtu.be/yhPAo691W1U",
+            "percent": 100,
+            "hz": 330
+        }
+    ]
+}

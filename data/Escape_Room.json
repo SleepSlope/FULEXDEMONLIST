@@ -1,0 +1,18 @@
+{
+    "id": 90420966,
+    "name": "Escape Room",
+    "author": "SleyGD",
+    "creators": [],
+    "verifier": "DrWhoKnowsWhat",
+    "verification": "https://youtu.be/L1PixYGdGgE",
+    "percentToQualify": "100",
+    "password": "Free",
+    "records": [
+        {
+            "user": "Chubby9000",
+            "link": "https://youtu.be/BkCkrOx0lfc",
+            "percent": 100,
+            "hz": 330
+        }
+    ]
+}

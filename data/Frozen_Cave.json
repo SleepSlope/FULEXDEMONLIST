@@ -1,0 +1,18 @@
+{
+    "id": 68908396,
+    "name": "Frozen Cave",
+    "author": "TrueParadoxTeam",
+    "creators": ["Sleynt", "Quicklen", "AlexOris", "Aqualime", "DimaCrut", "FlashWing576", "TyakyoFyai", "Vornickon"],
+    "verifier": "DrWhoKnowsWhat",
+    "verification": "https://youtu.be/tSGhuC44qzo",
+    "percentToQualify": "100",
+    "password": "Free",
+    "records": [
+        {
+            "user": "Zephronox",
+            "link": "https://youtu.be/FLaFFuPOU7s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

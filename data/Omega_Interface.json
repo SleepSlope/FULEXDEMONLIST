@@ -1,0 +1,18 @@
+{
+    "id": 68654380,
+    "name": "Omega Interface",
+    "author": "Platnuu",
+    "creators": ["Platnuu", "Zipixbox""],
+    "verifier": "DrWhoKnowsWhat",
+    "verification": "https://youtu.be/It_iEpQXCZg",
+    "percentToQualify": "100",
+    "password": "Free",
+    "records": [
+        {
+            "user": "Zephronox",
+            "link": "https://youtu.be/1-3OHcc-CBY",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

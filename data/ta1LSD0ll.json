@@ -3,16 +3,10 @@
     "name": "ta1LSD0ll",
     "author": "ta1lsdoll",
     "creators": ["2003devin", "rply", "Galliard", "AnagaraRiver", "MiRugene", "PastelPink", "Kcool", "robtobfreak", "rivverr", "ekzels", "Madterz", "Classic10", "spkgmd", "Antobyy"],
-    "verifier": "Mob",
-    "verification": "https://youtu.be/vxR40FhzH-0",
+    "verifier": "kane",
+    "verification": "https://youtu.be/VYbMHVShAfg",
     "percentToQualify": "100",
     "password": "Free",
     "records": [
-        {
-            "user": "kane",
-            "link": "https://youtu.be/VYbMHVShAfg",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }

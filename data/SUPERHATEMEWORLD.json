@@ -3,17 +3,11 @@
     "name": "SUPERHATEMEWORLD",
     "author": "IcEDCave",
     "creators": ["IcEDCave", "EndLevel", "Doop", "Realvet", "River", "Loogiah"],
-    "verifier": "Mob",
-    "verification": "https://youtu.be/UzzXSp2pIx8",
+    "verifier": "kane",
+    "verification": "https://youtu.be/ky57EIFBGk4",
     "percentToQualify": "100",
     "password": "Free",
     "records": [
-        {
-            "user": "kane",
-            "link": "https://youtu.be/ky57EIFBGk4",
-            "percent": 100,
-            "hz": 240
-        },
         {
             "user": "purewaw",
             "link": "https://youtu.be/e6P_2rHTph0",
